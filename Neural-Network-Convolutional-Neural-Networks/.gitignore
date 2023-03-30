@@ -1,0 +1,4 @@
+# 파일 제외 (파일명.확장자)
+cnn_dataset/
+cnn_dataset.zip
+dataset.csv
